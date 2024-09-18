@@ -1,0 +1,32 @@
+
+.demo{
+    width: 70px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: blueviolet;
+}
+.card{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.404);
+}
+.saurya{
+    height: 80px;
+}
+.card1:hover{
+    transform:translateY(-30px)
+}
+.men1:hover{
+    transform: translateY(-30px);
+}
+.men2:hover{
+    color:blue;
+}
+.men3:hover{
+    color: deeppink;
+}
+.men4:hover{
+    background-color:aqua;
+    color: black;
+}
+.men5:hover{
+    color: crimson;
+}
